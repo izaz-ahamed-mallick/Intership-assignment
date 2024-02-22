@@ -103,6 +103,7 @@ nav {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .header-text {
   height: 100%;
@@ -201,6 +202,7 @@ nav {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -254,6 +256,7 @@ nav {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .footer-content {
